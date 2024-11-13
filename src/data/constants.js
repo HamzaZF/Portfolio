@@ -112,6 +112,32 @@ export const projects = [
     github: "https://github.com/HamzaZF/Privacy-Preserving-Exchange-Mechanism",
     webapp: "NA",
   },
+  {
+    id: 1,
+    title: "VPC Production Setup with AWS CloudFormation",
+    date: "Nov 2023",
+    description:
+      "This project sets up a production-ready Virtual Private Cloud (VPC) environment on AWS using CloudFormation templates. The architecture includes a secure network with public and private subnets, a bastion host, and a load balancer. It leverages nested stacks, cross-references, and chained stacks to ensure modularity, flexibility, and reusability. This setup follows AWS best practices, providing a scalable and manageable infrastructure.",
+    image: "NA", // Provide a link to an image if available
+    tags: [
+      "AWS CloudFormation",
+      "VPC",
+      "EC2",
+      "Application Load Balancer (ALB)",
+      "IAM",
+      "S3",
+      "NAT Gateway",
+      "Bastion Host",
+      "Autoscaling",
+      "Security Groups",
+      "Route Tables",
+      "Infrastructure as Code (IaC)"
+    ],
+    category: "Cloud",
+    github: "https://github.com/HamzaZF/VPC-production",
+    webapp: "NA",
+  },
+
   /*
   {
     id: 1,
