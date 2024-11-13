@@ -114,8 +114,8 @@ export const projects = [
   },
   {
     id: 1,
-    title: "VPC Production Setup with AWS CloudFormation",
-    date: "Nov 2023",
+    title: "AWS Production-Grade VPC Architecture with CloudFormation",
+    date: "Nov 2024",
     description:
       "This project sets up a production-ready Virtual Private Cloud (VPC) environment on AWS using CloudFormation templates. The architecture includes a secure network with public and private subnets, a bastion host, and a load balancer. It leverages nested stacks, cross-references, and chained stacks to ensure modularity, flexibility, and reusability. This setup follows AWS best practices, providing a scalable and manageable infrastructure.",
     image: "NA", // Provide a link to an image if available
