@@ -123,15 +123,13 @@ export const projects = [
       "AWS CloudFormation",
       "VPC",
       "EC2",
-      "Application Load Balancer (ALB)",
-      "IAM",
+      "ALB",
       "S3",
       "NAT Gateway",
       "Bastion Host",
       "Autoscaling",
       "Security Groups",
-      "Route Tables",
-      "Infrastructure as Code (IaC)"
+      "IaC"
     ],
     category: "Cloud",
     github: "https://github.com/HamzaZF/VPC-production",
